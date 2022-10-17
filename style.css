@@ -58,3 +58,9 @@ nav ul li{
       width: 10vw;
       margin: 6px 12px;
 }
+
+footer{
+      padding: 23px;
+      text-align: center;
+      box-shadow:rgb(0 0 0/24%)0px 3px 8px;
+}
